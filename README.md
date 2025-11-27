@@ -2,4 +2,4 @@
 
 This repository contains past questions and answers for Computer Management (Nov 2011, East TVET).
 
-👉 [View the Website](https://pixelpoet254.github.io/computer-management-2011-nov-east-tvet-question-and-answer/)
+👉 [View the Website](https://pixelpoet254.github.io/(https://github.com/pixelpoet254/computer-management-2011-nov-easy-tvet-question-and-answers/tree/main)/)
